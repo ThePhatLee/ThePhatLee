@@ -3,47 +3,62 @@
 </p>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="36"/>
   Hi, I'm ThePhatLee
 </h1>
 <p align="center">
-  <b>Freelancer Web Developer | Three.js/WebGL Creative Engineer</b><br>
+  <b>Freelancer Web Developer&nbsp;|&nbsp;Three.js/WebGL Creative Engineer</b><br>
   Student · Software Development / Engineering
 </p>
 
 ---
 
-<table align="center" width="100%">
+<!-- Main two cards row -->
+<table align="center" width="700px" style="max-width:700px;">
   <tr>
-    <td width="50%" valign="top" align="center" style="padding:24px 8px;">
-      <h3>
-        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f47e.svg" width="24"/> Creative Coding & 3D Art
+    <td width="50%" valign="top" align="center" style="padding:22px 18px; min-width:280px;">
+      <h3 style="font-size:1.2em;">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f47e.svg" width="28"/>
+        &nbsp;Creative Coding &amp; 3D Art
       </h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" width="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3a8.svg" width="22"/>
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5bc.svg" width="22"/><br>
-      <ul>
+      <div>
+        <!-- Three.js -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="34" style="vertical-align:middle;" alt="Three.js"/>
+        <!-- Blender -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="28" style="vertical-align:middle;" alt="Blender"/>
+        <!-- GIMP -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="28" style="vertical-align:middle;" alt="GIMP"/>
+        <!-- Inkscape -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="28" style="vertical-align:middle;" alt="Inkscape"/>
+        <!-- Darktable (official SVG icon from darktable.org) -->
+        <img src="https://darktable.org/media/logo/dt.svg" width="28" style="vertical-align:middle;" alt="Darktable"/>
+      </div>
+      <ul style="font-size:1.07em; text-align:left; max-width:350px; margin:0 auto; line-height:1.5;">
         <li>Three.js / WebGL interactive & creative experiences</li>
-        <li>3D rendering, generative art, creative coding</li>
-        <li>Visual effects, UI/UX, immersive web</li>
-        <li>Photography & digital art lover</li>
+        <li>Generative art, VFX, creative coding</li>
+        <li>3D, open-source graphics: Blender, GIMP, Inkscape, Darktable</li>
+        <li>UI/UX for immersive web</li>
+        <li>Photography &amp; digital art lover</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center" style="padding:24px 8px;">
-      <h3>
-        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="24"/> Tech Stack & Workflow
+    <td width="50%" valign="top" align="center" style="padding:22px 18px; min-width:280px;">
+      <h3 style="font-size:1.2em;">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4bb.svg" width="28"/>
+        &nbsp;Tech Stack &amp; Workflow
       </h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="22"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22"/><br>
-      <ul>
-        <li>HTML, CSS/SCSS, JavaScript, React, C++, Python</li>
+      <div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26" style="vertical-align:middle;" alt="C++"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="26" style="vertical-align:middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" style="vertical-align:middle;" alt="Linux"/>
+      </div>
+      <ul style="font-size:1.07em; text-align:left; max-width:350px; margin:0 auto; line-height:1.5;">
+        <li>HTML, CSS/SCSS, JS, React, C++, Python</li>
         <li>Three.js, WebGL, React</li>
         <li>Containers (Podman/Docker), CI/CD, QA</li>
         <li>Fedora (Silverblue/Kinoite), Linux-first, open source</li>
@@ -54,39 +69,56 @@
 
 <br>
 
-<table align="center" width="100%">
+<!-- Three equal small cards row, matching max width -->
+<table align="center" width="700px" style="max-width:700px; table-layout:fixed;">
   <tr>
-    <td align="center" valign="top" style="padding:18px 6px;">
-      <b>✨ About Me</b>
-      <ul>
-        <li>🐧 Fedora & immutable systems</li>
+    <td align="center" valign="top" style="padding:18px 12px; min-width:180px; width:33%;">
+      <div style="font-size:1.14em; font-weight:bold; margin-bottom:4px;">✨ About Me</div>
+      <ul style="font-size:1.05em; text-align:left; max-width:220px; margin:0 auto; line-height:1.5;">
+        <li>🐧 Fedora &amp; immutable systems</li>
         <li>🔎 Open source, QA, beta testing</li>
-        <li>🛡️ Ethical hacking & cyber security</li>
+        <li>🛡️ Ethical hacking &amp; cyber security</li>
         <li>🤝 Always open to creative collabs!</li>
       </ul>
     </td>
-    <td align="center" valign="top" style="padding:18px 6px;">
-      <b>🎓 Education</b>
-      <ul>
+    <td align="center" valign="top" style="padding:18px 12px; min-width:180px; width:33%;">
+      <div style="font-size:1.14em; font-weight:bold; margin-bottom:4px;">🎓 Education</div>
+      <ul style="font-size:1.05em; text-align:left; max-width:220px; margin:0 auto; line-height:1.5;">
         <li>Software Dev / Engineering</li>
         <li>Web, creative, and 3D dev</li>
         <li>Cybersecurity & IT support</li>
       </ul>
     </td>
-    <td align="center" valign="top" style="padding:18px 6px;">
-      <b>📫 Find Me</b><br>
-      <a href="https://github.com/ThePhatLee"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/></a>
-      <a href="https://gitlab.com/ThePhatLe"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="22"/></a>
-      <a href="https://discussion.fedoraproject.org/u/thephatlee/summary"><img src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4" width="22"/></a>
-      <a href="https://matrix.to/#/@thephatle:matrix.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix.org_Logo.svg" width="22"/></a>
-      <div style="color:#a6a6a6;font-size:0.92em;">No social networks – open source & decentralized only!</div>
+    <td align="center" valign="top" style="padding:18px 12px; min-width:180px; width:33%; position:relative;">
+      <div style="font-size:1.14em; font-weight:bold; margin-bottom:4px;">📫 Find Me</div>
+      <div style="margin-bottom:8px;">
+        <!-- Default GitHub SVG -->
+        <a href="https://github.com/ThePhatLee" title="GitHub">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" style="vertical-align:middle;" alt="GitHub"/>
+        </a>
+        <!-- Default GitLab SVG -->
+        <a href="https://gitlab.com/ThePhatLe" title="GitLab">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="28" style="vertical-align:middle;" alt="GitLab"/>
+        </a>
+        <!-- Default Fedora SVG -->
+        <a href="https://discussion.fedoraproject.org/u/thephatlee/summary" title="Fedora Project">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="28" style="vertical-align:middle;" alt="Fedora"/>
+        </a>
+        <!-- Matrix: Use a reliable SVG icon from Wikimedia Commons -->
+        <a href="https://matrix.to/#/@thephatle:matrix.com" title="Matrix">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix.org_Logo.svg" width="28" style="vertical-align:middle; background:#fff; border-radius:4px;" alt="Matrix"/>
+        </a>
+      </div>
+      <div style="font-size:0.96em; margin-top:36px;">
+        <sub>No social networks – open source & decentralized only!</sub>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<p align="center">
+<p align="center" style="font-size:1.16em;">
   <i>“Pixels, code, and creativity.<br>
   I build web worlds that move, render, and inspire.<br>
   Let’s push boundaries together.”</i>
