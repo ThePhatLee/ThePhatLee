@@ -30,8 +30,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="28" style="vertical-align:middle;" alt="GIMP"/>
         <!-- Inkscape -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="28" style="vertical-align:middle;" alt="Inkscape"/>
-        <!-- Darktable (official SVG icon from darktable.org) -->
-        <img src="https://darktable.org/media/logo/dt.svg" width="28" style="vertical-align:middle;" alt="Darktable"/>
+        <!-- Darktable (original local asset) -->
+        <img src="https://raw.githubusercontent.com/ThePhatLee/ThePhatLee/main/.github/assets/Darktable_icon.svg" width="28" style="vertical-align:middle;" alt="Darktable"/>
       </div>
       <ul style="font-size:1.07em; text-align:left; max-width:350px; margin:0 auto; line-height:1.5;">
         <li>Three.js / WebGL interactive & creative experiences</li>
@@ -89,27 +89,23 @@
         <li>Cybersecurity & IT support</li>
       </ul>
     </td>
-    <td align="center" valign="top" style="padding:18px 12px; min-width:180px; width:33%; position:relative;">
+    <td align="center" valign="top" style="padding:18px 12px; min-width:180px; width:33%; position:relative; border-bottom: 2px solid #d0d7de;">
       <div style="font-size:1.14em; font-weight:bold; margin-bottom:4px;">📫 Find Me</div>
-      <div style="margin-bottom:8px;">
-        <!-- Default GitHub SVG -->
+      <div style="margin-bottom:16px;">
         <a href="https://github.com/ThePhatLee" title="GitHub">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" style="vertical-align:middle;" alt="GitHub"/>
         </a>
-        <!-- Default GitLab SVG -->
         <a href="https://gitlab.com/ThePhatLe" title="GitLab">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="28" style="vertical-align:middle;" alt="GitLab"/>
         </a>
-        <!-- Default Fedora SVG -->
         <a href="https://discussion.fedoraproject.org/u/thephatlee/summary" title="Fedora Project">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="28" style="vertical-align:middle;" alt="Fedora"/>
         </a>
-        <!-- Matrix: Use a reliable SVG icon from Wikimedia Commons -->
         <a href="https://matrix.to/#/@thephatle:matrix.com" title="Matrix">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix.org_Logo.svg" width="28" style="vertical-align:middle; background:#fff; border-radius:4px;" alt="Matrix"/>
+          <img src="https://raw.githubusercontent.com/ThePhatLee/ThePhatLee/main/.github/assets/Matrix_icon.svg" width="28" style="vertical-align:middle;" alt="Matrix"/>
         </a>
       </div>
-      <div style="font-size:0.96em; margin-top:36px;">
+      <div style="font-size:0.96em; color:#888; margin-top:24px; padding-bottom:6px;">
         <sub>No social networks – open source & decentralized only!</sub>
       </div>
     </td>
